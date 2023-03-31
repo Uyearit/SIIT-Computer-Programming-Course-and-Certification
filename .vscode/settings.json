@@ -3,6 +3,7 @@
         "*.c": "c",
         "COP100001.C": "cpp",
         "COP1000 01.C": "cpp",
-        "COP1000 02.C": "cpp"
+        "COP1000 02.C": "cpp",
+        "Apply.C": "cpp"
     }
 }
